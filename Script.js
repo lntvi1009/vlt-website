@@ -7,7 +7,7 @@ const messages = [
     "If you say no, I will be really sad...",
     "I will be very sad...",
     "I will be very very very sad...",
-    "hoii zz mỹ tườngg nhấn Yes i nó thoát rara",
+    "hoii zz mỹ tườngg nhấn Yes i nó thoát ra",
     "Just kidding, say yes please! ❤️"
 ];
 
